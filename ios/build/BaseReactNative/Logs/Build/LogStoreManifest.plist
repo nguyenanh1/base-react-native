@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>010743C5-17B7-41AD-A3C6-DB845C2FA7A3</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>010743C5-17B7-41AD-A3C6-DB845C2FA7A3.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BaseReactNative project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BaseReactNative</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project BaseReactNative with scheme BaseReactNative and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>582125027.22871304</real>
+			<key>timeStoppedRecording</key>
+			<real>582125028.55785203</real>
+			<key>title</key>
+			<string>Building project BaseReactNative with scheme BaseReactNative and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>010743C5-17B7-41AD-A3C6-DB845C2FA7A3</string>
+		</dict>
+		<key>67442EF6-702D-49F7-842D-418BF1B77494</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>67442EF6-702D-49F7-842D-418BF1B77494.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BaseReactNative project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BaseReactNative</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project BaseReactNative with scheme BaseReactNative and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>582167156.93781602</real>
+			<key>timeStoppedRecording</key>
+			<real>582167158.18074596</real>
+			<key>title</key>
+			<string>Building project BaseReactNative with scheme BaseReactNative and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>67442EF6-702D-49F7-842D-418BF1B77494</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/nguyenanh/Documents/dts/rn/BaseReactNative/node_modules/react-native/React/Views/RCTRootShadowView.m \
+  /Users/nguyenanh/Documents/dts/rn/BaseReactNative/node_modules/react-native/React/Views/RCTRootShadowView.h \
+  /Users/nguyenanh/Documents/dts/rn/BaseReactNative/node_modules/react-native/React/Views/RCTShadowView.h \
+  /Users/nguyenanh/Documents/dts/rn/BaseReactNative/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/nguyenanh/Documents/dts/rn/BaseReactNative/node_modules/react-native/React/Views/RCTLayout.h \
+  /Users/nguyenanh/Documents/dts/rn/BaseReactNative/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/nguyenanh/Documents/dts/rn/BaseReactNative/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/nguyenanh/Documents/dts/rn/BaseReactNative/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/nguyenanh/Documents/dts/rn/BaseReactNative/ios/build/BaseReactNative/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/nguyenanh/Documents/dts/rn/BaseReactNative/ios/build/BaseReactNative/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/nguyenanh/Documents/dts/rn/BaseReactNative/ios/build/BaseReactNative/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/nguyenanh/Documents/dts/rn/BaseReactNative/ios/build/BaseReactNative/Build/Products/Debug-iphonesimulator/include/yoga/YGValue.h \
+  /Users/nguyenanh/Documents/dts/rn/BaseReactNative/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/nguyenanh/Documents/dts/rn/BaseReactNative/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/nguyenanh/Documents/dts/rn/BaseReactNative/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/nguyenanh/Documents/dts/rn/BaseReactNative/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/nguyenanh/Documents/dts/rn/BaseReactNative/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/nguyenanh/Documents/dts/rn/BaseReactNative/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/nguyenanh/Documents/dts/rn/BaseReactNative/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/nguyenanh/Documents/dts/rn/BaseReactNative/node_modules/react-native/React/Modules/RCTI18nUtil.h \
+  /Users/nguyenanh/Documents/dts/rn/BaseReactNative/node_modules/react-native/React/Views/RCTShadowView+Layout.h

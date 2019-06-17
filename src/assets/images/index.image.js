@@ -1,0 +1,1 @@
+export const IMAGE_SPLASH_SCREEN = require("./image_splash_screen.png")
